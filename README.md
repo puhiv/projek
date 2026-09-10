@@ -18,6 +18,6 @@ Divisi: Cyber Security
 
 
 --- Dokumentasi Challenge Reverse ---
-![image alt](https://github.com/puhiv/projek/blob/30fea0424e8ed1abd15eb4bbe6d49bc2b37293e5/4.png)
-![image alt](https://github.com/puhiv/projek/blob/99bde9f22e5dc4a33fe2add3b877325a8d020f32/5.png)
+![image alt](https://github.com/puhiv/projek/blob/53e22db390a7c886d3d264f85460ce98bf1c8eeb/6.png)
+![image alt](https://github.com/puhiv/projek/blob/13f4d44b694d72f0eae39f567871edd8542cb219/7.png)
 
